@@ -1,0 +1,46 @@
+﻿RUTA,BARRIO,HORARIO,CLIMA,TIEMPO REAL,TIEMPO ESPERADO,TIEMPO PERDIDO
+ruta_05,porvenir,1,2,45,25,-20
+ruta_05,porvenir,1,1,30,25,-5
+ruta_05,porvenir,2,2,35,25,-10
+ruta_05,porvenir,2,1,20,25,5
+ruta_05,porvenir,3,2,45,25,-20
+ruta_05,porvenir,3,1,30,25,-5
+ruta_05,manantiales,1,2,85,65,-20
+ruta_05,manantiales,1,1,62.5,65,2.5
+ruta_05,manantiales,2,2,65,65,0
+ruta_05,manantiales,2,1,42.5,65,22.5
+ruta_05,manantiales,3,2,65,65,0
+ruta_05,manantiales,3,1,42.5,65,22.5
+ruta_03,la esmeralda,1,2,27.5,25,-2.5
+ruta_03,la esmeralda,1,1,12.5,25,12.5
+ruta_03,la esmeralda,2,2,37.5,25,-12.5
+ruta_03,la esmeralda,2,1,22.5,25,2.5
+ruta_03,la esmeralda,3,2,37.5,25,-12.5
+ruta_03,la esmeralda,3,1,22.5,25,2.5
+ruta_04,vereda galicia,0,0,0,0,0
+ruta_05,san francisco,3,2,37.5,25,-12.5
+ruta_05,san francisco,3,1,22.5,25,2.5
+ruta_05,porvenir,1,2,27.5,30,2.5
+ruta_05,porvenir,1,1,12.5,30,17.5
+ruta_05,porvenir,2,2,37.5,30,-7.5
+ruta_05,porvenir,2,1,22.5,30,7.5
+ruta_05,porvenir,3,2,27.5,30,2.5
+ruta_05,porvenir,3,1,12.5,30,17.5
+ruta_05,porvenir,1,2,27.5,15,-12.5
+ruta_05,porvenir,1,1,12.5,15,2.5
+ruta_05,porvenir,2,2,27.5,15,-12.5
+ruta_05,porvenir,2,1,12.5,15,2.5
+ruta_05,porvenir,3,2,37.5,15,-22.5
+ruta_05,porvenir,3,1,22.5,15,-7.5
+circular,san antonio,1,2,37.5,30,-7.5
+circular,san antonio,1,1,15,30,15
+circular,san antonio,2,2,37.5,30,-7.5
+circular,san antonio,2,1,15,30,15
+circular,san antonio,3,2,37.5,30,-7.5
+circular,san antonio,3,1,15,30,15
+linea_a,Santa Ana,1,2,20,15,-5
+linea_a,Santa Ana,1,1,20,15,-5
+linea_a,Santa Ana,2,2,20,15,-5
+linea_a,Santa Ana,2,1,20,15,-5
+linea_a,Santa Ana,3,2,20,15,-5
+linea_a,Santa Ana,3,1,20,15,-5
