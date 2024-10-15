@@ -1,46 +1,82 @@
 ﻿RUTA,BARRIO,HORARIO,CLIMA,TIEMPO REAL,TIEMPO ESPERADO,TIEMPO PERDIDO
-ruta_05,porvenir,1,2,45,25,-20
-ruta_05,porvenir,1,1,30,25,-5
-ruta_05,porvenir,2,2,35,25,-10
-ruta_05,porvenir,2,1,20,25,5
-ruta_05,porvenir,3,2,45,25,-20
-ruta_05,porvenir,3,1,30,25,-5
-ruta_05,manantiales,1,2,85,65,-20
-ruta_05,manantiales,1,1,62.5,65,2.5
-ruta_05,manantiales,2,2,65,65,0
-ruta_05,manantiales,2,1,42.5,65,22.5
-ruta_05,manantiales,3,2,65,65,0
-ruta_05,manantiales,3,1,42.5,65,22.5
-ruta_03,la esmeralda,1,2,27.5,25,-2.5
-ruta_03,la esmeralda,1,1,12.5,25,12.5
-ruta_03,la esmeralda,2,2,37.5,25,-12.5
-ruta_03,la esmeralda,2,1,22.5,25,2.5
-ruta_03,la esmeralda,3,2,37.5,25,-12.5
-ruta_03,la esmeralda,3,1,22.5,25,2.5
+ruta_05,porvenir,1,2,38,23,-15
+ruta_05,porvenir,1,1,25,22,-3
+ruta_05,porvenir,2,2,25,26,1
+ruta_05,porvenir,2,1,10,23,13
+ruta_05,porvenir,3,2,38,21,-17
+ruta_05,porvenir,3,1,23,30,7
+ruta_05,manantiales,1,2,81,77,-4
+ruta_05,manantiales,1,1,67,95,28
+ruta_05,manantiales,2,2,48,74,26
+ruta_05,manantiales,2,1,16,87,71
+ruta_05,manantiales,3,2,55,71,16
+ruta_05,manantiales,3,1,25,91,66
+ruta_03,la esmeralda,1,2,21,23,2
+ruta_03,la esmeralda,1,1,3,25,22
+ruta_03,la esmeralda,2,2,42,26,-16
+ruta_03,la esmeralda,2,1,12,23,11
+ruta_03,la esmeralda,3,2,38,26,-12
+ruta_03,la esmeralda,3,1,15,25,10
 ruta_04,vereda galicia,0,0,0,0,0
-ruta_05,san francisco,3,2,37.5,25,-12.5
-ruta_05,san francisco,3,1,22.5,25,2.5
-ruta_05,porvenir,1,2,27.5,30,2.5
-ruta_05,porvenir,1,1,12.5,30,17.5
-ruta_05,porvenir,2,2,37.5,30,-7.5
-ruta_05,porvenir,2,1,22.5,30,7.5
-ruta_05,porvenir,3,2,27.5,30,2.5
-ruta_05,porvenir,3,1,12.5,30,17.5
-ruta_05,porvenir,1,2,27.5,15,-12.5
-ruta_05,porvenir,1,1,12.5,15,2.5
-ruta_05,porvenir,2,2,27.5,15,-12.5
-ruta_05,porvenir,2,1,12.5,15,2.5
-ruta_05,porvenir,3,2,37.5,15,-22.5
-ruta_05,porvenir,3,1,22.5,15,-7.5
-circular,san antonio,1,2,37.5,30,-7.5
-circular,san antonio,1,1,15,30,15
-circular,san antonio,2,2,37.5,30,-7.5
-circular,san antonio,2,1,15,30,15
-circular,san antonio,3,2,37.5,30,-7.5
-circular,san antonio,3,1,15,30,15
-linea_a,Santa Ana,1,2,20,15,-5
-linea_a,Santa Ana,1,1,20,15,-5
-linea_a,Santa Ana,2,2,20,15,-5
-linea_a,Santa Ana,2,1,20,15,-5
-linea_a,Santa Ana,3,2,20,15,-5
-linea_a,Santa Ana,3,1,20,15,-5
+ruta_05,san francisco,3,2,31,24,-7
+ruta_05,san francisco,3,1,17,21,4
+ruta_05,porvenir,1,2,20,22,2
+ruta_05,porvenir,1,1,13,25,12
+ruta_05,porvenir,2,2,31,22,-9
+ruta_05,porvenir,2,1,20,28,8
+ruta_05,porvenir,3,2,25,23,-2
+ruta_05,porvenir,3,1,11,28,17
+ruta_05,porvenir,1,2,23,12,-11
+ruta_05,porvenir,1,1,10,12,2
+ruta_05,porvenir,2,2,18,20,2
+ruta_05,porvenir,2,1,14,16,2
+ruta_05,porvenir,3,2,32,16,-16
+ruta_05,porvenir,3,1,20,16,-4
+circular,san antonio,1,2,27,31,4
+circular,san antonio,1,1,15,31,16
+circular,san antonio,2,2,30,32,2
+circular,san antonio,2,1,12,28,16
+circular,san antonio,3,2,29,29,0
+circular,san antonio,3,1,13,29,16
+linea_a,Santa Ana,1,2,13,17,4
+linea_a,Santa Ana,1,1,14,15,1
+linea_a,Santa Ana,2,2,3,12,9
+linea_a,Santa Ana,2,1,19,17,-2
+linea_a,Santa Ana,3,2,9,16,7
+linea_a,Santa Ana,3,1,19,11,-8
+ruta_303,Rionegro plaza,1,2,20,29,9
+ruta_303,Rionegro plaza,1,1,29,29,0
+ruta_303,Rionegro plaza,2,2,28,30,2
+ruta_303,Rionegro plaza,2,1,20,26,6
+ruta_303,Rionegro plaza,3,2,3,31,28
+ruta_303,Rionegro plaza,3,1,27,26,-1
+ruta_303,Rionegro plaza,1,2,26,33,7
+ruta_303,Rionegro plaza,1,1,25,28,3
+ruta_303,Rionegro plaza,2,2,22,31,9
+ruta_303,Rionegro plaza,2,1,23,29,6
+ruta_303,Rionegro plaza,3,2,21,29,8
+ruta_303,Rionegro plaza,3,1,26,34,8
+ruta_303,vereda campo alegre,1,2,27,17,-10
+ruta_303,vereda campo alegre,1,1,17,12,-5
+ruta_303,vereda campo alegre,2,2,29,13,-16
+ruta_303,vereda campo alegre,2,1,16,18,2
+ruta_303,vereda campo alegre,3,2,20,18,-2
+ruta_303,vereda campo alegre,3,1,20,12,-8
+ruta_05,Alto de la capilla,1,2,21,12,-9
+ruta_05,Alto de la capilla,1,1,15,15,0
+ruta_05,Alto de la capilla,2,2,21,16,-5
+ruta_05,Alto de la capilla,2,1,19,12,-7
+ruta_05,Alto de la capilla,3,2,27,16,-11
+ruta_05,Alto de la capilla,3,1,22,16,-6
+ruta_303,Vereda Santa Bárbara,1,2,16,17,1
+ruta_303,Vereda Santa Bárbara,1,1,12,15,3
+ruta_303,Vereda Santa Bárbara,2,2,29,19,-10
+ruta_303,Vereda Santa Bárbara,2,1,15,18,3
+ruta_303,Vereda Santa Bárbara,3,2,21,16,-5
+ruta_303,Vereda Santa Bárbara,3,1,20,19,-1
+ruta_05,Alto de la capilla,1,2,21,11,-10
+ruta_05,Alto de la capilla,1,1,22,20,-2
+ruta_05,Alto de la capilla,2,2,27,17,-10
+ruta_05,Alto de la capilla,2,1,14,11,-3
+ruta_05,Alto de la capilla,3,2,19,14,-5
+ruta_05,Alto de la capilla,3,1,21,15,-6

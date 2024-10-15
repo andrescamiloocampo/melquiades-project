@@ -2,7 +2,7 @@ import pandas as pd
 import joblib
 import numpy as np
 from dictionaries import dicts
-from sklearn.linear_model import LinearRegression
+from sklearn.linear_model import Ridge
 from sklearn.metrics import mean_squared_error
 
 time_data = pd.read_csv('./data/timeModel2.csv')
@@ -21,7 +21,7 @@ training_tags = training_data.pop('TIEMPO PERDIDO')
 test_tags = test_data.pop('TIEMPO PERDIDO')
 
 
-model = LinearRegression()
+model = Ridge()
 model.fit(training_data,training_tags)
 predicciones = model.predict(test_data)
 
