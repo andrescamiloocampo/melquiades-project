@@ -2,6 +2,7 @@ from flask import Flask, jsonify, request
 import pandas as pd
 import joblib
 import numpy as np
+from dbConnection import seedPredictions,insertPrediction,seedUsers
 
 app = Flask(__name__)
 
@@ -41,6 +42,44 @@ def predictionPost():
         response = {"prediction": prediction_value}
 
         return jsonify(response)
+    
+@app.route('/newPrediction',methods=['POST'])
+def newPrediction():
+    predictionModel = joblib.load('prediction_model.pkl')
+    if(request.method == 'POST'):
+        body = request.get_json()
+        
+        input_data = pd.DataFrame(np.array([list(body.values())]),columns=list(body.keys()))
+        prediction = predictionModel.predict(input_data)
+        prediction_list = prediction.tolist()
+
+        if len(prediction_list) == 1:
+            prediction_value = prediction_list[0]
+        else:
+            prediction_value = prediction_list
+    
+        response = {"prediction": prediction_value}
+
+        return jsonify(response)    
+    
+@app.route('/createPrediction',methods=['POST'])
+def createPrediction():
+    if(request.method == 'POST'):
+        body = request.get_json()
+        try:
+            print(body)
+            response = insertPrediction(body)
+            return jsonify(response)
+        except Exception as e:
+            print(f"Request error: {e}")
+            return f"Error: {e}"        
+        
+    return jsonify('None')
+
+
+@app.route('/databaseSeeder',methods=['POST'])
+def databaseSeeder():        
+    return seedPredictions()    
 
 if __name__ == '__main__':
     app.run(debug=True)
