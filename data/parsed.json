@@ -1,0 +1,812 @@
+[
+    {
+        "": "0",
+        "RUTA": "ruta_05",
+        "BARRIO": "porvenir",
+        "HORARIO": "1",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "38",
+        "TIEMPO_ESPERADO": "23",
+        "TIEMPO_PERDIDO": "-15"
+    },
+    {
+        "": "1",
+        "RUTA": "ruta_05",
+        "BARRIO": "porvenir",
+        "HORARIO": "1",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "25",
+        "TIEMPO_ESPERADO": "22",
+        "TIEMPO_PERDIDO": "-3"
+    },
+    {
+        "": "2",
+        "RUTA": "ruta_05",
+        "BARRIO": "porvenir",
+        "HORARIO": "2",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "25",
+        "TIEMPO_ESPERADO": "26",
+        "TIEMPO_PERDIDO": "1"
+    },
+    {
+        "": "3",
+        "RUTA": "ruta_05",
+        "BARRIO": "porvenir",
+        "HORARIO": "2",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "10",
+        "TIEMPO_ESPERADO": "23",
+        "TIEMPO_PERDIDO": "13"
+    },
+    {
+        "": "4",
+        "RUTA": "ruta_05",
+        "BARRIO": "porvenir",
+        "HORARIO": "3",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "38",
+        "TIEMPO_ESPERADO": "21",
+        "TIEMPO_PERDIDO": "-17"
+    },
+    {
+        "": "5",
+        "RUTA": "ruta_05",
+        "BARRIO": "porvenir",
+        "HORARIO": "3",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "23",
+        "TIEMPO_ESPERADO": "30",
+        "TIEMPO_PERDIDO": "7"
+    },
+    {
+        "": "6",
+        "RUTA": "ruta_05",
+        "BARRIO": "manantiales",
+        "HORARIO": "1",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "81",
+        "TIEMPO_ESPERADO": "77",
+        "TIEMPO_PERDIDO": "-4"
+    },
+    {
+        "": "7",
+        "RUTA": "ruta_05",
+        "BARRIO": "manantiales",
+        "HORARIO": "1",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "67",
+        "TIEMPO_ESPERADO": "95",
+        "TIEMPO_PERDIDO": "28"
+    },
+    {
+        "": "8",
+        "RUTA": "ruta_05",
+        "BARRIO": "manantiales",
+        "HORARIO": "2",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "48",
+        "TIEMPO_ESPERADO": "74",
+        "TIEMPO_PERDIDO": "26"
+    },
+    {
+        "": "9",
+        "RUTA": "ruta_05",
+        "BARRIO": "manantiales",
+        "HORARIO": "2",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "16",
+        "TIEMPO_ESPERADO": "87",
+        "TIEMPO_PERDIDO": "71"
+    },
+    {
+        "": "10",
+        "RUTA": "ruta_05",
+        "BARRIO": "manantiales",
+        "HORARIO": "3",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "55",
+        "TIEMPO_ESPERADO": "71",
+        "TIEMPO_PERDIDO": "16"
+    },
+    {
+        "": "11",
+        "RUTA": "ruta_05",
+        "BARRIO": "manantiales",
+        "HORARIO": "3",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "25",
+        "TIEMPO_ESPERADO": "91",
+        "TIEMPO_PERDIDO": "66"
+    },
+    {
+        "": "12",
+        "RUTA": "ruta_03",
+        "BARRIO": "la esmeralda",
+        "HORARIO": "1",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "21",
+        "TIEMPO_ESPERADO": "23",
+        "TIEMPO_PERDIDO": "2"
+    },
+    {
+        "": "13",
+        "RUTA": "ruta_03",
+        "BARRIO": "la esmeralda",
+        "HORARIO": "1",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "3",
+        "TIEMPO_ESPERADO": "25",
+        "TIEMPO_PERDIDO": "22"
+    },
+    {
+        "": "14",
+        "RUTA": "ruta_03",
+        "BARRIO": "la esmeralda",
+        "HORARIO": "2",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "42",
+        "TIEMPO_ESPERADO": "26",
+        "TIEMPO_PERDIDO": "-16"
+    },
+    {
+        "": "15",
+        "RUTA": "ruta_03",
+        "BARRIO": "la esmeralda",
+        "HORARIO": "2",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "12",
+        "TIEMPO_ESPERADO": "23",
+        "TIEMPO_PERDIDO": "11"
+    },
+    {
+        "": "16",
+        "RUTA": "ruta_03",
+        "BARRIO": "la esmeralda",
+        "HORARIO": "3",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "38",
+        "TIEMPO_ESPERADO": "26",
+        "TIEMPO_PERDIDO": "-12"
+    },
+    {
+        "": "17",
+        "RUTA": "ruta_03",
+        "BARRIO": "la esmeralda",
+        "HORARIO": "3",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "15",
+        "TIEMPO_ESPERADO": "25",
+        "TIEMPO_PERDIDO": "10"
+    },
+    {
+        "": "18",
+        "RUTA": "ruta_04",
+        "BARRIO": "vereda galicia",
+        "HORARIO": "0",
+        "CLIMA": "0",
+        "TIEMPO_REAL": "0",
+        "TIEMPO_ESPERADO": "0",
+        "TIEMPO_PERDIDO": "0"
+    },
+    {
+        "": "19",
+        "RUTA": "ruta_05",
+        "BARRIO": "san francisco",
+        "HORARIO": "3",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "31",
+        "TIEMPO_ESPERADO": "24",
+        "TIEMPO_PERDIDO": "-7"
+    },
+    {
+        "": "20",
+        "RUTA": "ruta_05",
+        "BARRIO": "san francisco",
+        "HORARIO": "3",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "17",
+        "TIEMPO_ESPERADO": "21",
+        "TIEMPO_PERDIDO": "4"
+    },
+    {
+        "": "21",
+        "RUTA": "ruta_05",
+        "BARRIO": "porvenir",
+        "HORARIO": "1",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "20",
+        "TIEMPO_ESPERADO": "22",
+        "TIEMPO_PERDIDO": "2"
+    },
+    {
+        "": "22",
+        "RUTA": "ruta_05",
+        "BARRIO": "porvenir",
+        "HORARIO": "1",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "13",
+        "TIEMPO_ESPERADO": "25",
+        "TIEMPO_PERDIDO": "12"
+    },
+    {
+        "": "23",
+        "RUTA": "ruta_05",
+        "BARRIO": "porvenir",
+        "HORARIO": "2",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "31",
+        "TIEMPO_ESPERADO": "22",
+        "TIEMPO_PERDIDO": "-9"
+    },
+    {
+        "": "24",
+        "RUTA": "ruta_05",
+        "BARRIO": "porvenir",
+        "HORARIO": "2",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "20",
+        "TIEMPO_ESPERADO": "28",
+        "TIEMPO_PERDIDO": "8"
+    },
+    {
+        "": "25",
+        "RUTA": "ruta_05",
+        "BARRIO": "porvenir",
+        "HORARIO": "3",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "25",
+        "TIEMPO_ESPERADO": "23",
+        "TIEMPO_PERDIDO": "-2"
+    },
+    {
+        "": "26",
+        "RUTA": "ruta_05",
+        "BARRIO": "porvenir",
+        "HORARIO": "3",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "11",
+        "TIEMPO_ESPERADO": "28",
+        "TIEMPO_PERDIDO": "17"
+    },
+    {
+        "": "27",
+        "RUTA": "ruta_05",
+        "BARRIO": "porvenir",
+        "HORARIO": "1",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "23",
+        "TIEMPO_ESPERADO": "12",
+        "TIEMPO_PERDIDO": "-11"
+    },
+    {
+        "": "28",
+        "RUTA": "ruta_05",
+        "BARRIO": "porvenir",
+        "HORARIO": "1",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "10",
+        "TIEMPO_ESPERADO": "12",
+        "TIEMPO_PERDIDO": "2"
+    },
+    {
+        "": "29",
+        "RUTA": "ruta_05",
+        "BARRIO": "porvenir",
+        "HORARIO": "2",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "18",
+        "TIEMPO_ESPERADO": "20",
+        "TIEMPO_PERDIDO": "2"
+    },
+    {
+        "": "30",
+        "RUTA": "ruta_05",
+        "BARRIO": "porvenir",
+        "HORARIO": "2",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "14",
+        "TIEMPO_ESPERADO": "16",
+        "TIEMPO_PERDIDO": "2"
+    },
+    {
+        "": "31",
+        "RUTA": "ruta_05",
+        "BARRIO": "porvenir",
+        "HORARIO": "3",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "32",
+        "TIEMPO_ESPERADO": "16",
+        "TIEMPO_PERDIDO": "-16"
+    },
+    {
+        "": "32",
+        "RUTA": "ruta_05",
+        "BARRIO": "porvenir",
+        "HORARIO": "3",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "20",
+        "TIEMPO_ESPERADO": "16",
+        "TIEMPO_PERDIDO": "-4"
+    },
+    {
+        "": "33",
+        "RUTA": "circular",
+        "BARRIO": "san antonio",
+        "HORARIO": "1",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "27",
+        "TIEMPO_ESPERADO": "31",
+        "TIEMPO_PERDIDO": "4"
+    },
+    {
+        "": "34",
+        "RUTA": "circular",
+        "BARRIO": "san antonio",
+        "HORARIO": "1",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "15",
+        "TIEMPO_ESPERADO": "31",
+        "TIEMPO_PERDIDO": "16"
+    },
+    {
+        "": "35",
+        "RUTA": "circular",
+        "BARRIO": "san antonio",
+        "HORARIO": "2",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "30",
+        "TIEMPO_ESPERADO": "32",
+        "TIEMPO_PERDIDO": "2"
+    },
+    {
+        "": "36",
+        "RUTA": "circular",
+        "BARRIO": "san antonio",
+        "HORARIO": "2",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "12",
+        "TIEMPO_ESPERADO": "28",
+        "TIEMPO_PERDIDO": "16"
+    },
+    {
+        "": "37",
+        "RUTA": "circular",
+        "BARRIO": "san antonio",
+        "HORARIO": "3",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "29",
+        "TIEMPO_ESPERADO": "29",
+        "TIEMPO_PERDIDO": "0"
+    },
+    {
+        "": "38",
+        "RUTA": "circular",
+        "BARRIO": "san antonio",
+        "HORARIO": "3",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "13",
+        "TIEMPO_ESPERADO": "29",
+        "TIEMPO_PERDIDO": "16"
+    },
+    {
+        "": "39",
+        "RUTA": "linea_a",
+        "BARRIO": "Santa Ana",
+        "HORARIO": "1",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "13",
+        "TIEMPO_ESPERADO": "17",
+        "TIEMPO_PERDIDO": "4"
+    },
+    {
+        "": "40",
+        "RUTA": "linea_a",
+        "BARRIO": "Santa Ana",
+        "HORARIO": "1",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "14",
+        "TIEMPO_ESPERADO": "15",
+        "TIEMPO_PERDIDO": "1"
+    },
+    {
+        "": "41",
+        "RUTA": "linea_a",
+        "BARRIO": "Santa Ana",
+        "HORARIO": "2",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "3",
+        "TIEMPO_ESPERADO": "12",
+        "TIEMPO_PERDIDO": "9"
+    },
+    {
+        "": "42",
+        "RUTA": "linea_a",
+        "BARRIO": "Santa Ana",
+        "HORARIO": "2",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "19",
+        "TIEMPO_ESPERADO": "17",
+        "TIEMPO_PERDIDO": "-2"
+    },
+    {
+        "": "43",
+        "RUTA": "linea_a",
+        "BARRIO": "Santa Ana",
+        "HORARIO": "3",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "9",
+        "TIEMPO_ESPERADO": "16",
+        "TIEMPO_PERDIDO": "7"
+    },
+    {
+        "": "44",
+        "RUTA": "linea_a",
+        "BARRIO": "Santa Ana",
+        "HORARIO": "3",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "19",
+        "TIEMPO_ESPERADO": "11",
+        "TIEMPO_PERDIDO": "-8"
+    },
+    {
+        "": "45",
+        "RUTA": "ruta_303",
+        "BARRIO": "Rionegro plaza",
+        "HORARIO": "1",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "20",
+        "TIEMPO_ESPERADO": "29",
+        "TIEMPO_PERDIDO": "9"
+    },
+    {
+        "": "46",
+        "RUTA": "ruta_303",
+        "BARRIO": "Rionegro plaza",
+        "HORARIO": "1",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "29",
+        "TIEMPO_ESPERADO": "29",
+        "TIEMPO_PERDIDO": "0"
+    },
+    {
+        "": "47",
+        "RUTA": "ruta_303",
+        "BARRIO": "Rionegro plaza",
+        "HORARIO": "2",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "28",
+        "TIEMPO_ESPERADO": "30",
+        "TIEMPO_PERDIDO": "2"
+    },
+    {
+        "": "48",
+        "RUTA": "ruta_303",
+        "BARRIO": "Rionegro plaza",
+        "HORARIO": "2",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "20",
+        "TIEMPO_ESPERADO": "26",
+        "TIEMPO_PERDIDO": "6"
+    },
+    {
+        "": "49",
+        "RUTA": "ruta_303",
+        "BARRIO": "Rionegro plaza",
+        "HORARIO": "3",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "3",
+        "TIEMPO_ESPERADO": "31",
+        "TIEMPO_PERDIDO": "28"
+    },
+    {
+        "": "50",
+        "RUTA": "ruta_303",
+        "BARRIO": "Rionegro plaza",
+        "HORARIO": "3",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "27",
+        "TIEMPO_ESPERADO": "26",
+        "TIEMPO_PERDIDO": "-1"
+    },
+    {
+        "": "51",
+        "RUTA": "ruta_303",
+        "BARRIO": "Rionegro plaza",
+        "HORARIO": "1",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "26",
+        "TIEMPO_ESPERADO": "33",
+        "TIEMPO_PERDIDO": "7"
+    },
+    {
+        "": "52",
+        "RUTA": "ruta_303",
+        "BARRIO": "Rionegro plaza",
+        "HORARIO": "1",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "25",
+        "TIEMPO_ESPERADO": "28",
+        "TIEMPO_PERDIDO": "3"
+    },
+    {
+        "": "53",
+        "RUTA": "ruta_303",
+        "BARRIO": "Rionegro plaza",
+        "HORARIO": "2",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "22",
+        "TIEMPO_ESPERADO": "31",
+        "TIEMPO_PERDIDO": "9"
+    },
+    {
+        "": "54",
+        "RUTA": "ruta_303",
+        "BARRIO": "Rionegro plaza",
+        "HORARIO": "2",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "23",
+        "TIEMPO_ESPERADO": "29",
+        "TIEMPO_PERDIDO": "6"
+    },
+    {
+        "": "55",
+        "RUTA": "ruta_303",
+        "BARRIO": "Rionegro plaza",
+        "HORARIO": "3",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "21",
+        "TIEMPO_ESPERADO": "29",
+        "TIEMPO_PERDIDO": "8"
+    },
+    {
+        "": "56",
+        "RUTA": "ruta_303",
+        "BARRIO": "Rionegro plaza",
+        "HORARIO": "3",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "26",
+        "TIEMPO_ESPERADO": "34",
+        "TIEMPO_PERDIDO": "8"
+    },
+    {
+        "": "57",
+        "RUTA": "ruta_303",
+        "BARRIO": "vereda campo alegre",
+        "HORARIO": "1",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "27",
+        "TIEMPO_ESPERADO": "17",
+        "TIEMPO_PERDIDO": "-10"
+    },
+    {
+        "": "58",
+        "RUTA": "ruta_303",
+        "BARRIO": "vereda campo alegre",
+        "HORARIO": "1",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "17",
+        "TIEMPO_ESPERADO": "12",
+        "TIEMPO_PERDIDO": "-5"
+    },
+    {
+        "": "59",
+        "RUTA": "ruta_303",
+        "BARRIO": "vereda campo alegre",
+        "HORARIO": "2",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "29",
+        "TIEMPO_ESPERADO": "13",
+        "TIEMPO_PERDIDO": "-16"
+    },
+    {
+        "": "60",
+        "RUTA": "ruta_303",
+        "BARRIO": "vereda campo alegre",
+        "HORARIO": "2",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "16",
+        "TIEMPO_ESPERADO": "18",
+        "TIEMPO_PERDIDO": "2"
+    },
+    {
+        "": "61",
+        "RUTA": "ruta_303",
+        "BARRIO": "vereda campo alegre",
+        "HORARIO": "3",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "20",
+        "TIEMPO_ESPERADO": "18",
+        "TIEMPO_PERDIDO": "-2"
+    },
+    {
+        "": "62",
+        "RUTA": "ruta_303",
+        "BARRIO": "vereda campo alegre",
+        "HORARIO": "3",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "20",
+        "TIEMPO_ESPERADO": "12",
+        "TIEMPO_PERDIDO": "-8"
+    },
+    {
+        "": "63",
+        "RUTA": "ruta_05",
+        "BARRIO": "Alto de la capilla",
+        "HORARIO": "1",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "21",
+        "TIEMPO_ESPERADO": "12",
+        "TIEMPO_PERDIDO": "-9"
+    },
+    {
+        "": "64",
+        "RUTA": "ruta_05",
+        "BARRIO": "Alto de la capilla",
+        "HORARIO": "1",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "15",
+        "TIEMPO_ESPERADO": "15",
+        "TIEMPO_PERDIDO": "0"
+    },
+    {
+        "": "65",
+        "RUTA": "ruta_05",
+        "BARRIO": "Alto de la capilla",
+        "HORARIO": "2",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "21",
+        "TIEMPO_ESPERADO": "16",
+        "TIEMPO_PERDIDO": "-5"
+    },
+    {
+        "": "66",
+        "RUTA": "ruta_05",
+        "BARRIO": "Alto de la capilla",
+        "HORARIO": "2",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "19",
+        "TIEMPO_ESPERADO": "12",
+        "TIEMPO_PERDIDO": "-7"
+    },
+    {
+        "": "67",
+        "RUTA": "ruta_05",
+        "BARRIO": "Alto de la capilla",
+        "HORARIO": "3",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "27",
+        "TIEMPO_ESPERADO": "16",
+        "TIEMPO_PERDIDO": "-11"
+    },
+    {
+        "": "68",
+        "RUTA": "ruta_05",
+        "BARRIO": "Alto de la capilla",
+        "HORARIO": "3",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "22",
+        "TIEMPO_ESPERADO": "16",
+        "TIEMPO_PERDIDO": "-6"
+    },
+    {
+        "": "69",
+        "RUTA": "ruta_303",
+        "BARRIO": "Vereda Santa Barbara",
+        "HORARIO": "1",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "16",
+        "TIEMPO_ESPERADO": "17",
+        "TIEMPO_PERDIDO": "1"
+    },
+    {
+        "": "70",
+        "RUTA": "ruta_303",
+        "BARRIO": "Vereda Santa Barbara",
+        "HORARIO": "1",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "12",
+        "TIEMPO_ESPERADO": "15",
+        "TIEMPO_PERDIDO": "3"
+    },
+    {
+        "": "71",
+        "RUTA": "ruta_303",
+        "BARRIO": "Vereda Santa Barbara",
+        "HORARIO": "2",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "29",
+        "TIEMPO_ESPERADO": "19",
+        "TIEMPO_PERDIDO": "-10"
+    },
+    {
+        "": "72",
+        "RUTA": "ruta_303",
+        "BARRIO": "Vereda Santa Barbara",
+        "HORARIO": "2",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "15",
+        "TIEMPO_ESPERADO": "18",
+        "TIEMPO_PERDIDO": "3"
+    },
+    {
+        "": "73",
+        "RUTA": "ruta_303",
+        "BARRIO": "Vereda Santa Barbara",
+        "HORARIO": "3",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "21",
+        "TIEMPO_ESPERADO": "16",
+        "TIEMPO_PERDIDO": "-5"
+    },
+    {
+        "": "74",
+        "RUTA": "ruta_303",
+        "BARRIO": "Vereda Santa Barbara",
+        "HORARIO": "3",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "20",
+        "TIEMPO_ESPERADO": "19",
+        "TIEMPO_PERDIDO": "-1"
+    },
+    {
+        "": "75",
+        "RUTA": "ruta_05",
+        "BARRIO": "Alto de la capilla",
+        "HORARIO": "1",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "21",
+        "TIEMPO_ESPERADO": "11",
+        "TIEMPO_PERDIDO": "-10"
+    },
+    {
+        "": "76",
+        "RUTA": "ruta_05",
+        "BARRIO": "Alto de la capilla",
+        "HORARIO": "1",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "22",
+        "TIEMPO_ESPERADO": "20",
+        "TIEMPO_PERDIDO": "-2"
+    },
+    {
+        "": "77",
+        "RUTA": "ruta_05",
+        "BARRIO": "Alto de la capilla",
+        "HORARIO": "2",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "27",
+        "TIEMPO_ESPERADO": "17",
+        "TIEMPO_PERDIDO": "-10"
+    },
+    {
+        "": "78",
+        "RUTA": "ruta_05",
+        "BARRIO": "Alto de la capilla",
+        "HORARIO": "2",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "14",
+        "TIEMPO_ESPERADO": "11",
+        "TIEMPO_PERDIDO": "-3"
+    },
+    {
+        "": "79",
+        "RUTA": "ruta_05",
+        "BARRIO": "Alto de la capilla",
+        "HORARIO": "3",
+        "CLIMA": "2",
+        "TIEMPO_REAL": "19",
+        "TIEMPO_ESPERADO": "14",
+        "TIEMPO_PERDIDO": "-5"
+    },
+    {
+        "": "80",
+        "RUTA": "ruta_05",
+        "BARRIO": "Alto de la capilla",
+        "HORARIO": "3",
+        "CLIMA": "1",
+        "TIEMPO_REAL": "21",
+        "TIEMPO_ESPERADO": "15",
+        "TIEMPO_PERDIDO": "-6"
+    }
+]

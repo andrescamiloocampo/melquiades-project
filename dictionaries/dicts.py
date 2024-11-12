@@ -22,6 +22,6 @@ area = {
         'Rionegro plaza': 9,
         'vereda campo alegre': 10,
         'Alto de la capilla': 11,
-        'Vereda Santa Bárbara': 12,        
+        'Vereda Santa Barbara': 12,        
     }
 }

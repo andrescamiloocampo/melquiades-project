@@ -1,0 +1,69 @@
+RUTA,BARRIO,HORARIO,VARIACION_CLIMA,TIEMPO_DE_RUTA,TIEMPO_LLEGADA,TIEMPO PERDIDO
+ruta_05,porvenir,1,11,13,10,7
+ruta_05,porvenir,1,0,12,10,1
+ruta_05,porvenir,2,14,13,10,10
+ruta_05,porvenir,2,0,11,12,-5
+ruta_05,porvenir,3,10,13,13,11
+ruta_05,porvenir,3,0,13,15,2
+ruta_05,manantiales,1,13,6,71,15
+ruta_05,manantiales,1,-10,6,66,-9
+ruta_05,manantiales,2,12,9,63,12
+ruta_05,manantiales,2,-7,7,63,-9
+ruta_05,manantiales,3,11,6,74,9
+ruta_05,manantiales,3,-5,6,74,-18
+ruta_03,la esmeralda,1,9,14,15,11
+ruta_03,la esmeralda,1,-10,13,14,-3
+ruta_03,la esmeralda,2,9,13,10,6
+ruta_03,la esmeralda,2,-7,13,15,-1
+ruta_03,la esmeralda,3,8,15,10,7
+ruta_03,la esmeralda,3,-6,15,10,-4
+ruta_05,san francisco,3,-7,13,15,-4
+ruta_05,san francisco,3,-6,10,10,-10
+ruta_05,porvenir,1,6,6,20,6
+ruta_05,porvenir,1,-7,10,19,-5
+ruta_05,porvenir,2,9,10,18,15
+ruta_05,porvenir,2,-7,5,15,-12
+ruta_05,porvenir,3,6,5,18,4
+ruta_05,porvenir,3,-9,5,15,-16
+ruta_05,porvenir,1,8,7,8,9
+ruta_05,porvenir,1,-10,6,6,-12
+ruta_05,porvenir,2,10,7,6,12
+ruta_05,porvenir,2,-6,6,8,-5
+ruta_05,porvenir,3,10,6,7,13
+ruta_05,porvenir,3,-8,8,8,-9
+circular,san antonio,1,10,10,17,6
+circular,san antonio,1,-14,11,19,-13
+circular,san antonio,2,9,10,19,7
+circular,san antonio,2,-13,14,19,-10
+circular,san antonio,3,7,10,19,5
+circular,san antonio,3,-11,13,15,-13
+linea_a,Santa Ana,1,0,10,9,6
+linea_a,Santa Ana,1,0,7,7,3
+linea_a,Santa Ana,2,0,10,9,1
+linea_a,Santa Ana,2,0,9,5,-2
+linea_a,Santa Ana,3,0,8,10,5
+linea_a,Santa Ana,3,0,5,7,-3
+ruta_303,Rionegro plaza,1,-7,12,7,-17
+ruta_303,Rionegro plaza,1,0,12,6,-9
+ruta_303,Rionegro plaza,2,-6,13,8,-14
+ruta_303,Rionegro plaza,2,0,14,7,-6
+ruta_303,Rionegro plaza,3,-6,15,5,-14
+ruta_303,Rionegro plaza,3,-10,11,7,-24
+ruta_303,Rionegro plaza,1,0,16,14,-5
+ruta_303,Rionegro plaza,1,0,19,12,-2
+ruta_303,Rionegro plaza,2,0,15,10,-7
+ruta_303,Rionegro plaza,2,0,17,13,-3
+ruta_303,Rionegro plaza,3,0,19,10,0
+ruta_303,Rionegro plaza,3,0,20,15,6
+ruta_303,vereda campo alegre,1,9,9,10,16
+ruta_303,vereda campo alegre,1,-5,9,8,-2
+ruta_303,vereda campo alegre,2,9,6,7,7
+ruta_303,vereda campo alegre,2,-6,10,6,-8
+ruta_303,vereda campo alegre,3,8,9,8,8
+ruta_303,vereda campo alegre,3,-10,8,7
+ruta_05,Alto de la capilla,2,9,6,9,13
+ruta_05,Alto de la capilla,2,-10,10,9,-8
+ruta_05,Vereda Santa Bárbara,2,10,7,6,6
+ruta_05,Vereda Santa Bárbara,2,-9,7,6,-11
+ruta_05,Alto de la capilla,2,9,10,7,12
+ruta_05,Alto de la capilla,2,-9,7,10,-7
