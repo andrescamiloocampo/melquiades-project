@@ -2,9 +2,11 @@ from flask import Flask, jsonify, request
 import pandas as pd
 import joblib
 import numpy as np
-from dbConnection import seedPredictions,insertPrediction,seedUsers
+from dbConnection import seedPredictions,insertPrediction
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 model = joblib.load('time_model.pkl')
 
@@ -75,6 +77,10 @@ def createPrediction():
             return f"Error: {e}"        
         
     return jsonify('None')
+
+@app.route('/hello')
+def hello():
+    return jsonify('HELLO')
 
 
 @app.route('/databaseSeeder',methods=['POST'])

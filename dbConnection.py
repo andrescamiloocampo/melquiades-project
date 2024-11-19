@@ -114,8 +114,8 @@ def insertPrediction(body):
         with psycopg.connect(connectionString) as conn:
             with conn.cursor() as cur:
                 cur.execute("""
-                        INSERT INTO predictions(id, RUTA, BARRIO, HORARIO, CLIMA, TIEMPO_REAL, TIEMPO_ESPERADO, TIEMPO_PERDIDO)
-                        VALUES(%s, %s, %s, %s, %s, %s, %s, %s)
+                        INSERT INTO predictions(id, RUTA, BARRIO, HORARIO, CLIMA, TIEMPO_REAL, TIEMPO_ESPERADO, TIEMPO_PERDIDO,userId)
+                        VALUES(%s, %s, %s, %s, %s, %s, %s, %s,%s)
                     """, (
                         str(uuid.uuid4()), 
                         body['RUTA'], 
@@ -124,7 +124,8 @@ def insertPrediction(body):
                         body['CLIMA'], 
                         body['TIEMPO_REAL'], 
                         body['TIEMPO_ESPERADO'], 
-                        body['TIEMPO_PERDIDO']
+                        body['TIEMPO_PERDIDO'],
+                        body['id']
                     ))
                 conn.commit()
             return "Success register created"
