@@ -3,6 +3,7 @@ import pandas as pd
 import joblib
 import numpy as np
 from dbConnection import seedPredictions,insertPrediction
+from timeModel import train
 from flask_cors import CORS
 
 app = Flask(__name__)
@@ -81,6 +82,11 @@ def createPrediction():
 @app.route('/hello')
 def hello():
     return jsonify('HELLO')
+
+@app.route('/train')
+def trainModel():
+    res = train()
+    return jsonify(res)
 
 
 @app.route('/databaseSeeder',methods=['POST'])
