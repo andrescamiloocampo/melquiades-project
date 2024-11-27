@@ -808,15 +808,5 @@
         "TIEMPO_REAL": "21",
         "TIEMPO_ESPERADO": "15",
         "TIEMPO_PERDIDO": "-6"
-    },
-    {
-        "": "81",
-        "RUTA": "ruta_04",
-        "BARRIO": "porvenir",
-        "HORARIO": "2",
-        "CLIMA": "1",
-        "TIEMPO_REAL": "19.943721549928",
-        "TIEMPO_ESPERADO": "5",
-        "TIEMPO_PERDIDO": "14.943721549928"
     }
 ]

@@ -94,4 +94,4 @@ def databaseSeeder():
     return seedPredictions()    
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
